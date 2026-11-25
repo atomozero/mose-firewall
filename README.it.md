@@ -1,5 +1,7 @@
 # Mose Firewall
 
+[![Offrimi una birra](https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/atomozero)
+
 Un firewall per [Haiku](https://www.haiku-os.org), con una finestra
 nativa, un'icona nel Deskbar e un comando per il Terminale.
 
@@ -114,6 +116,12 @@ caricare un add-on del kernel compilato per un'altra versione.
 - Su Haiku a 32 bit l'icona nel Deskbar non è disponibile: lì il Deskbar
   non può caricare programmi compilati con il compilatore moderno. La
   finestra e la riga di comando funzionano come sugli altri sistemi.
+
+
+## Ti piace Mose?
+
+Mose Firewall è gratuito. Se ti è utile, puoi offrirmi una birra:
+<https://buymeacoffee.com/atomozero> 🍺
 
 
 ## Licenza

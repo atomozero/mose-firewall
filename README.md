@@ -1,5 +1,7 @@
 # Mose Firewall
 
+[![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer-%F0%9F%8D%BA-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/atomozero)
+
 A packet filter for [Haiku](https://www.haiku-os.org), with a native
 window, a Deskbar icon and a command line tool.
 
@@ -108,6 +110,12 @@ kernel add-on built for a different one.
 - On 32-bit Haiku the Deskbar icon is not available: the Deskbar there
   cannot load programs built with the modern compiler. The window and
   the command line work as on the other systems.
+
+
+## Like Mose?
+
+Mose Firewall is free. If it is useful to you, you can buy me a beer:
+<https://buymeacoffee.com/atomozero> 🍺
 
 
 ## Licence
