@@ -1,0 +1,200 @@
+Mose Firewall - Licence (version 1.1 and later)
+===============================================
+
+Copyright (c) 2025-2026 Andrea Bernardi. All rights reserved.
+
+Mose Firewall is proprietary software, free of charge, with registration
+required for full use (registerware, a kind of shareware). The source
+code is not published.
+
+(Italiano più sotto.)
+
+
+1. Free of charge
+-----------------
+
+Mose Firewall can be installed and used without payment, for personal
+or professional use, including commercial use, on any number of Haiku
+computers.
+
+
+2. Registration
+---------------
+
+- At first start Mose Firewall runs for 10 days with all its features
+  (trial).
+- To keep all the features after the trial you must register. The
+  registration is free: choose "License > Get Pro..." in the program,
+  enter your email address on the Mose Firewall page and you receive an
+  activation key for that computer.
+- An email address can activate up to two computers. Every key is bound
+  to one computer and is personal: it may not be shared, sold or
+  published.
+- Without registration Mose Firewall keeps working in the Base edition:
+  the filter stays on, with up to 10 rules and one profile of your own
+  besides the ready-made ones. The filter is never turned off because
+  of the licence.
+- Activation keys are checked on your computer: Mose Firewall does not
+  contact any server while you use it.
+
+
+3. Personal data
+----------------
+
+To issue an activation key the licence server records: email address,
+a fingerprint of the computer (a hash derived from the network card
+address, not the address itself), date, versions of Mose Firewall and
+Haiku, architecture and the IP address of the request (to limit
+abuse). These data are used only to issue and manage activation keys.
+Other communications are sent only with your explicit consent. To
+access or delete your data, write to software@studiobernardi.eu.
+
+
+4. Not permitted
+----------------
+
+- Redistributing Mose Firewall, in whole or in part, without written
+  permission. Linking to the official release page is always allowed.
+- Modifying the programs to bypass the registration, or distributing
+  activation keys or modified versions.
+- Reverse engineering aimed at building competing products.
+- Using the name "Mose Firewall" or its icon for other products without
+  permission.
+
+
+5. Permitted
+------------
+
+- Use on personal and professional computers, also commercial, as
+  described above.
+- Reviews, articles, tutorials and screenshots of the program.
+- Bug reports and suggestions.
+
+
+6. Future versions
+------------------
+
+The author may change the terms for future major versions, for example
+by introducing a paid edition. Activation keys already issued stay
+valid for the 1.x versions.
+
+
+7. No warranty
+--------------
+
+Mose Firewall is provided "as is", without warranty of any kind. To the
+extent permitted by law, the author is not liable for loss of
+connectivity, loss of data or security problems arising from the use or
+misuse of the program. Consumers keep the rights the law of their
+country grants them.
+
+
+Version 1.0 and third-party components
+--------------------------------------
+
+Version 1.0 stays covered by the licence it was distributed with.
+Third-party components: see THIRD-PARTY-NOTICES.md.
+
+Contact: software@studiobernardi.eu
+
+
+===============================================================================
+
+Mose Firewall - Licenza d'uso (versione 1.1 e successive)
+=========================================================
+
+Copyright (c) 2025-2026 Andrea Bernardi. Tutti i diritti riservati.
+
+Mose Firewall è software proprietario, gratuito, con registrazione
+obbligatoria per l'uso completo (registerware, una forma di shareware).
+Il codice sorgente non è pubblicato.
+
+
+1. Gratuito
+-----------
+
+Mose Firewall può essere installato e usato senza pagamento, per uso
+personale o professionale, anche commerciale, su qualsiasi numero di
+computer Haiku.
+
+
+2. Registrazione
+----------------
+
+- Al primo avvio Mose Firewall funziona per 10 giorni con tutte le
+  funzioni (prova).
+- Per mantenere tutte le funzioni dopo la prova è obbligatorio
+  registrarsi. La registrazione è gratuita: scegli "Licenza > Ottieni
+  Pro..." nel programma, inserisci il tuo indirizzo email nella pagina
+  di Mose Firewall e ricevi una chiave di attivazione per quel computer.
+- Un indirizzo email può attivare al massimo due computer. Ogni chiave è
+  legata a un computer ed è personale: non può essere ceduta, venduta o
+  pubblicata.
+- Senza registrazione Mose Firewall continua a funzionare nella versione
+  Base: il filtro resta attivo, con fino a 10 regole e un profilo tuo
+  oltre a quelli già pronti. Il filtro non viene mai disattivato per
+  motivi di licenza.
+- Le chiavi di attivazione sono verificate sul computer: Mose Firewall
+  non contatta nessun server mentre lo usi.
+
+
+3. Dati personali
+-----------------
+
+Per emettere una chiave di attivazione il server di licenza registra:
+indirizzo email, un'impronta del computer (un hash derivato
+dall'indirizzo della scheda di rete, non l'indirizzo stesso), data,
+versioni di Mose Firewall e di Haiku, architettura e indirizzo IP della
+richiesta (per limitare gli abusi). I dati servono solo a emettere e
+gestire le chiavi di attivazione. Altre comunicazioni solo con il tuo
+consenso esplicito. Per accedere ai tuoi dati o cancellarli scrivi a
+software@studiobernardi.eu.
+
+
+4. Cosa non è permesso
+----------------------
+
+- Ridistribuire Mose Firewall, in tutto o in parte, senza autorizzazione
+  scritta. Mettere un link alla pagina ufficiale delle release è sempre
+  permesso.
+- Modificare i programmi per aggirare la registrazione, o distribuire
+  chiavi di attivazione o versioni modificate.
+- Il reverse engineering finalizzato a prodotti concorrenti.
+- Usare il nome "Mose Firewall" o la sua icona per altri prodotti senza
+  autorizzazione.
+
+
+5. Cosa è permesso
+------------------
+
+- L'uso su computer personali e professionali, anche commerciali, come
+  descritto sopra.
+- Recensioni, articoli, tutorial e screenshot del programma.
+- Segnalazioni di bug e suggerimenti.
+
+
+6. Versioni future
+------------------
+
+L'autore può cambiare i termini per le future versioni principali, per
+esempio introducendo una versione a pagamento. Le chiavi di attivazione
+già emesse restano valide per le versioni 1.x.
+
+
+7. Nessuna garanzia
+-------------------
+
+Mose Firewall è fornito "così com'è", senza garanzie di alcun tipo. Nei
+limiti consentiti dalla legge, l'autore non risponde di perdite di
+connettività, perdite di dati o problemi di sicurezza derivanti dall'uso
+o dall'uso errato del programma. Restano salvi i diritti che la legge
+del proprio paese riconosce ai consumatori.
+
+
+Versione 1.0 e componenti di terze parti
+----------------------------------------
+
+La versione 1.0 resta coperta dalla licenza con cui è stata distribuita.
+Componenti di terze parti: vedi THIRD-PARTY-NOTICES.md.
+
+Contatti: software@studiobernardi.eu
