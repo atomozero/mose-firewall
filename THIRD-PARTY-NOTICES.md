@@ -41,3 +41,11 @@ Not included in the packages, installed with Haiku:
   licence.
 - **OpenSSL 3** `libcrypto` (Haiku package `openssl3`), used to verify
   activation keys (Ed25519) — Apache License 2.0.
+
+## ARM64 package only
+
+There is no OpenSSL package for ARM64 Haiku yet, so the ARM64 package
+includes **OpenSSL 3.5.7** `libcrypto`, unmodified, linked into the
+programs. OpenSSL is licensed under the Apache License 2.0, included in
+the package as `OpenSSL-LICENSE.txt`
+(<https://www.openssl.org/source/license.html>).

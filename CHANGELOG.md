@@ -28,7 +28,7 @@ First public release.
 - The Deskbar icon comes back by itself after an update or a crash of
   the Deskbar.
 - Dark theme, small screens (1024×600), eight languages.
-- Packages for 64-bit, 32-bit and ARM Haiku.
+- Packages for 64-bit and 32-bit x86, ARM, ARM64 and RISC-V Haiku.
 
 ### Security
 

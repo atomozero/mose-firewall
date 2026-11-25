@@ -81,7 +81,9 @@ because of the licence.
    | ---------------------------- | ------- |
    | 64-bit (x86_64)              | `mose_firewall-…-x86_64.hpkg` |
    | 32-bit (x86_gcc2 hybrid)     | `mose_firewall-…-x86_gcc2.hpkg` |
-   | ARM                          | `mose_firewall-…-arm.hpkg` |
+   | ARM (32-bit)                 | `mose_firewall-…-arm.hpkg` |
+   | ARM64                        | `mose_firewall-…-arm64.hpkg` |
+   | RISC-V (64-bit)              | `mose_firewall-…-riscv64.hpkg` |
 
 2. Copy it into `/boot/home/config/packages`. Do not install it in
    the system packages: Mose starts from your home folder.
