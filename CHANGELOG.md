@@ -1,5 +1,33 @@
 # Changes
 
+## 1.1.0 beta 2
+
+Security fixes: please update.
+
+### Security
+
+- "Maximum protection" could be bypassed: traffic sent from the port of
+  an allowed service (such as DNS or HTTPS) reached any port of the
+  computer. Rules that allow a service now let in only its replies.
+- Rules blocking a port (file sharing, BeShare…) now also stop others
+  from connecting to that port on this computer, not only this computer
+  from connecting to others.
+- A malformed packet could put a few bytes of kernel memory into the
+  list of blocked packets. Fixed.
+
+### Fixed
+
+- Right after installing, Mose says that a restart is needed (with a
+  "Restart now" button) instead of "kernel read error".
+- The trial no longer ends at once on computers that start with the
+  clock at 1970 until they get the network time.
+- `mose_firewall_ctl history` shows the latest entries, not the oldest.
+
+### Changed
+
+- The registration page receives the system Mose runs on (Haiku
+  revision, architecture, Mose version), for the seller's statistics.
+
 ## 1.1.0 beta 1
 
 First public release.
