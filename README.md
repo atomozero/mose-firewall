@@ -14,6 +14,9 @@ outgoing and incoming, IPv4 and IPv6. It runs as a kernel add-on, so it
 works for every application, and it never stops filtering because of the
 licence.
 
+It works on Haiku and on Haiku-based systems such as RenkuOS: it has
+been tested on RenkuOS, on x86_64 and on ARM.
+
 *[Leggi in italiano](README.it.md)*
 
 
